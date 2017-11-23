@@ -4,6 +4,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+
+#for jupyter notebook
 %matplotlib inline
 %config InlineBackend.figure_format = 'retina'
 
