@@ -1,6 +1,6 @@
 # heatmap_triangle
 
-Makes a pretty triangle heatmap for a pandas DataFrame.  
+Makes an easily readable triangle heatmap for a pandas DataFrame.  
 
 Dark blue is positive correlation, dark red is negative.  
 
